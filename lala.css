@@ -1,0 +1,29 @@
+body {background-color:#F0F0F0;
+	padding-left: 250px;
+	padding-right: 250px;
+}
+#header {
+	text-align: center;
+	background-color: rgb(255,0,0,0.1);
+}
+
+#name {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#picture {
+	float: right;
+}
+
+#profile {
+	text-align: center;
+}
+
+#Job {
+	font-size: 25px;
+}
+
+#Time {
+	font-size: 25px;
+} 
